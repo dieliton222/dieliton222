@@ -6,6 +6,9 @@
         <link rel="stylesheet" href="style.css">
     </head>
 
+   <body>
+      <img id="banner" src="banner.jpg">
+         
     <body>
         <h1 style="text-align: center">Sobre a Barbearia Alura</h1>
 
@@ -16,5 +19,17 @@
 
         <p>Oferecemos profissionais experientes e antenados às mudanças no mundo da moda. 
         O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes.</p>
+        
+    <h2>Benefícios</h2>
+
+    <ul>
+        <li class="itens">Atendimento aos Clientes</li>
+        <li class="itens">Espaço diferenciado</li>
+        <li class="itens">Localização</li>
+        <li class="itens">Profissionais Qualificados</li>
+    </ul>
+
+    <img src="beneficios.jpg" class="imagembeneficios">
+</div>
     </body>
 </html>
